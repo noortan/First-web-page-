@@ -1,3 +1,4 @@
+
 // great first java script file to yhis web 
 document.write("<p>Noortan</p>");
 var userName = "welcom to my webpage "
@@ -17,3 +18,20 @@ var gender = prompt("what is your gender?");
 if(gender=== gender1){document.write("welcome to kids Accessories for boys  ")}
 else if(gender=== gender2){document.write("welcome to kids Accessories girls ")}
 else{ document.write( "please enter genger as BOY or Girl just ")}
+
+
+
+var capital = prompt( "enter the capital of jordan please") ;
+while(capital != "Amaan"){
+capital = prompt(" enter the capital of jordan agian please.")
+}
+
+var count = prompt("how many imags of kids Accessories you want to see ? ") ;
+
+
+
+var i;
+for (i = 0; i <= count; i++) {
+document.write("<img src='https://i.pinimg.com/originals/15/fe/84/15fe84052473ca1628f8197aab1f34e8.jpg' alt='Accessories'>" ) ;
+  
+}
