@@ -1,0 +1,23 @@
+.header-nav ul li {
+  display: inline;
+  padding: 10px;
+  margin:10px;
+  border: 1px solid #f7fd04;
+   font-size: 18px ;
+   background-color: #e798ae ;
+}
+header h1  {
+  text-align: center;
+  color: #ba135d;
+}
+
+main img {
+  width: 500px;
+  height:500px ;
+   
+}
+main h1{
+  color: #ba135d;
+ }
+ 
+
