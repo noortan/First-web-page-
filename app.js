@@ -22,8 +22,8 @@ else{ document.write( "please enter genger as Male or Femail  just ")}
 
 
 var capital = prompt( "enter the capital of jordan please") ;
-while(capital != "Amaan"){
-capital = prompt(" enter the capital of jordan agian please.")
+while(capital != "Amman"){
+capital = prompt(" enter the capital of jordan (Amman) agian please.")
 }
 
 var count = prompt("how many imags of kids Accessories you want to see ? ") ;
